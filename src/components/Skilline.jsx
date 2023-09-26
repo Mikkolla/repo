@@ -10,12 +10,12 @@ export const Skilline = () =>  {
       
       
       <section className="section-mikola container ">
-  
+        
         <div className="section-mikola__text ">
   
         <div className="section-mikola__main-title">
         What is <span className="section-mikola__span">Skilline?</span>
-  
+        <h1>saf</h1>
         </div>
   
   
